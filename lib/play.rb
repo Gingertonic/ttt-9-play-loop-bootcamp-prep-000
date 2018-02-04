@@ -50,10 +50,5 @@ def play(board)
    while counter < 9
     turn(board)
     counter += 1
-  #  while counter < 10
-  #   turn(board)
-  # turnCount = 1
-  # until turnCount = 10
-  #   turn(board)
   end
 end
